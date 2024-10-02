@@ -4,6 +4,7 @@
     - [Green Software Maturity Matrix](https://maturity-matrix.greensoftware.foundation/)
     - [Software Carbon Intensity Specification](https://sci.greensoftware.foundation/)
     - [Impact Framework](https://if.greensoftware.foundation/)
+    - [Patterns](https://patterns.greensoftware.foundation/)
 - [Linux Foundation course - Green Software for Practitioners](https://training.linuxfoundation.org/training/green-software-for-practitioners-lfc131/)
 - [Building Green Software book](https://www.oreilly.com/library/view/building-green-software/9781098150617/)
 - Podcasts

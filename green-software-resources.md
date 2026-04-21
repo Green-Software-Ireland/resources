@@ -12,4 +12,4 @@
     - [Green I/O](https://podcasts.castplus.fm/greenio)
 - Green Software Ireland
     - [GSI Linkedin](https://www.linkedin.com/company/103479189/)
-    - [GSI Meetup](https://www.meetup.com/green_software_ireland/)
+    - [GSI Calendar](https://luma.com/green-software-ireland)
